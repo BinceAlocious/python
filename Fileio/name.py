@@ -1,0 +1,5 @@
+f=open("name.txt","w")
+f.write("ABC\n")
+f.write("CDE\n")
+f.write("EFG\n")
+f.write("HIJ\n")
